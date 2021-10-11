@@ -2,19 +2,13 @@
 
 ## Overview 
 
----Explain the purpose of this analysis.
-
 Upon completion of the initial school district data analysis for Py City schools, Maria was notified that there is evidence of academic dishonesty. Due to the highly confidential nature of student scores and money distribution based on scores, it is imperative that scores are reported accurately for future budgeting forecasting. As a result, analysis must be completed once more, representative of the removal of Thomas High School(THS) student data for 9th graders. Thomas High School students in 9ths grade had their math and reading scores replaced with NaN for the purpose of this analysis. 
-
-
 
 ## Results
 
-Analysis was completed using the provided district data, alterations were completed based on the new findings of possible dishonestly at Thomas High School 9th grade. 
+Analysis was completed using the provided district data, alterations were completed based on the new findings of possible dishonestly at Thomas High School 9th grade. Overall district level results almost no impact. 
 
-Overall district level results almost no impact. 
-
-![Initial Analysis of PyCity School District] (https://github.com/LMarty22/School-District_Analysis/blob/main/Resources/PyCitySchools_original.png)
+![Initial Analysis of PyCity School District] https://github.com/LMarty22/School-District_Analysis/blob/main/Resources/PyCitySchools_original.png
 
 ! [Analysis of PyCity School District without THS 9th Grade] (https://github.com/LMarty22/School-District_Analysis/blob/main/Resources/PyCitySchool_without9THS.png)
 
