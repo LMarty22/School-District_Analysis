@@ -18,9 +18,9 @@ Effects of replacement of 9th grade scores at Thomas High School have also made 
 	
 During the THS analysis, there is a deep dive into the math, and reading scoring as well as the overall passing for the students. In relation to other schools, THS high school remains a top performing school, THS remains in the top 5 performing schools in the district. 
 
-![Initial Results for Thomas High School](https://github.com/LMarty22/SchoolDistrict_Analysis/blob/main/Resources/THS%20_original.png)
+![Initial Results for Thomas High School](https://github.com/LMarty22/School-District_Analysis/blob/main/Resources/THS%20_original.png)
 
-![Thomas High School, Grades 10, 11, 12](https://github.com/LMarty22/SchoolDistrict_Analysis/blob/main/Resources/THS_without9th.png)
+![Thomas High School, Grades 10, 11, 12](https://github.com/LMarty22/School-District_Analysis/blob/main/Resources/THS_without9th.png)
 
 	-  Math scores increased by .04%
 	-  Reading scores decreased by .29%
