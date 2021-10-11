@@ -39,14 +39,14 @@ Budget per Student vs Reading & Math Scores
 ![Budget per Student vs Reading & Math Scores](https://github.com/LMarty22/School-District_Analysis/blob/main/Resources/Budget%20per%20Student.png)
 
 
-###School Size
+### School Size
 School size seems to be the indicator for higher scores amongst students. Schools classified as "Small" and "Medium" have the highest overall passing percentage, separated by 1% difference respectively. It can be further inferred that school size directly impacts student performance. 
 
 School Size vs Math & Reading Scores
 ![School Size vs Math & Reading Scores](https://github.com/LMarty22/School-District_Analysis/blob/main/Resources/School%20Size%20vs%20scores.png)
 
 
-###School Type
+### School Type
 Schools classified as "Charter" have an 36% higher overall passing rate compared to "District" schools. "Charter" schools tend to score higher academically. The top 5 performing schools in PyCity school district are all "Charter" schools. The bottom 5 performing schools are all classified as "District" schools.
 
 Charter & District Schools vs Reading & Math Scores
