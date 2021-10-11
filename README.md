@@ -58,12 +58,9 @@ Top Performing Schools
 Bottom Performing Schools
 ![Bottom Performing Schools](https://github.com/LMarty22/School-District_Analysis/blob/main/Resources/Lowest%20Performing%20Schools.png)
 
-
-
-  
 ## Summary
 
------Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+The overall school district analysis remained similar to the initial anaylsis outcome. The replacement of 9th grade students at Thomas High School with NaN, did not greatly influence the overall performance of the district. The district can continue to move forward with bugdgeting decision making based on the data presented as the impact of the second analysis, ran without the 9th graders at Thomas High School. The 9th grade at THS student count represents less than 1% of total student data. The removal of 9th grade scores does impact Thomas High School math and reading scores averages and the overall passing percentages. Although the numbers do change for math and reading slightly to demonstrate the absence of 9th grade, the representation of THS remains the same as a top performing school. 
 
 
 
